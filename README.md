@@ -1,0 +1,1 @@
+[![Open in Overleaf](https://img.shields.io/badge/Open%20in-Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/SteFre95/Paper-Thesis-Template/raw/refs/heads/main/Paper___Thesis_Template__DH_Lab__University_of_Basel.zip&main_document=main.tex)
